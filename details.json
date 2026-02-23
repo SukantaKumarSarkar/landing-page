@@ -1,17 +1,18 @@
 [
   {
     "name": "Profile 1",
-    "phone": "01843292640",
-    "password": "yourPasswordHere"
+    "phone": "01863399035",
+    "password": "Sukanta@1234"
   },
   {
     "name": "Profile 2",
-    "phone": "017XXXXXXXX",
-    "password": "anotherPassword"
+    "phone": "01874596460",
+    "password": "Sukanta@1122"
   },
   {
     "name": "Profile 3",
     "phone": "019XXXXXXXX",
     "password": "thirdPassword"
   }
+
 ]
