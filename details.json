@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Profile 1",
+    "phone": "01843292640",
+    "password": "yourPasswordHere"
+  },
+  {
+    "name": "Profile 2",
+    "phone": "017XXXXXXXX",
+    "password": "anotherPassword"
+  },
+  {
+    "name": "Profile 3",
+    "phone": "019XXXXXXXX",
+    "password": "thirdPassword"
+  }
+]
